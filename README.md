@@ -12,7 +12,9 @@ A systematic approach to mastering DSA using C++. This repository tracks my jour
 ![LeetCode Stats](https://leetcard.jacoblin.cool/[your-leetcode-username]?theme=dark&font=Sura)
 
 ## 🗂️ Repository Structure
-├── Phase-1-Logic-Building/
+
+```
+├── Phase-1-Logic-Building/ 
 │   ├── Week1/
 │   │   ├── Patterns/
 │   │   ├── Arrays/
@@ -21,8 +23,7 @@ A systematic approach to mastering DSA using C++. This repository tracks my jour
 ├── Phase-2-CPP-Fundamentals/
 ├── Phase-3-Data-Structures/
 └── Phase-4-Advanced-DSA/
-
-
+``` 
 
 ## 📚 Study Plan
 Phase 1: Logic Building (Weeks 1-4)
