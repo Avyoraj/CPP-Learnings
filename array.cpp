@@ -24,3 +24,9 @@ int main () {
 
     return 0;
 }
+
+/*In the given code,
+ the size of the array is 20 
+ because the array arr is likely defined as an array of 5 integers
+ . In C++, the size of an int is typically 4 bytes.
+  Therefore, an array of 5 integers would occupy 5 * 4 = 20 bytes in memory. */ 
