@@ -40,3 +40,7 @@ the value is copied to the function and the operation is performed on the copied
 so the orignal value is not changed
 
 */
+
+/*
+pass by values are used with premitive data types like int, float, char, double etc
+*/
