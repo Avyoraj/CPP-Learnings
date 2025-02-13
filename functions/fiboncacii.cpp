@@ -6,7 +6,7 @@
 using namespace std;
 
 void fibonacci(int n) {
-    int t0 = 0;
+    int t0 = 0; 
     int t1 = 1;
     int nextTerm;
 
