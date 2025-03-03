@@ -46,6 +46,22 @@ int main() {
 }
 
 
+Explanation:
+arr[3] is the same as *(arr + 3), which accesses the 4th element.
+3[arr] is actually interpreted as *(3 + arr), which is equivalent to arr[3].
+Why does this work?
+Since array indexing is just pointer arithmetic, arr[i] is actually syntactic sugar for *(arr + i). Swapping the operands to i[arr] results in *(i + arr), which is the same operation.
+
+But in real-world coding, it's better to stick to arr[i] for readability. 🚀
+
+
+Array indexing is based on pointer arithmetic, meaning:
+arr[i]  ==  *(arr + i)
+
+This can be rewritten as:
+i[arr]  ==  *(i + arr)
+
+Since addition is commutative (a + b == b + a), 10[arr] is equivalent to arr[10].
 
 
 
