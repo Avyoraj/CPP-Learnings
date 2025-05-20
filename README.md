@@ -9,7 +9,7 @@ A systematic approach to mastering DSA using C++. This repository tracks my jour
 - Topic: [Current Topic]
 
 ## 📊 Progress Overview
-![LeetCode Stats](https://leetcard.jacoblin.cool/[your-leetcode-username]?theme=dark&font=Sura)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Avyoraj?theme=dark&font=Sura)
 
 ## 🗂️ Repository Structure
 
