@@ -1,3 +1,12 @@
+// subarray in cpp 
+
+
+// A subarray is a contiguous part of an array.
+// A subarray can be defined as a contiguous portion of an array.
+// For example, in the array [1, 2, 3, 4], the subarrays are:
+// [1], [2], [3], [4], [1, 2], [2, 3], [3, 4], [1, 2, 3], [2, 3, 4], and [1, 2, 3, 4].
+
+
 #include <iostream>       
 using namespace std;
 int main() {
@@ -12,8 +21,9 @@ int main() {
             for (int i = st ; i <= en ; i++) {
                 cout << arr[i] << " ";
             }
-            cout << endl;
+            cout << " ";
         }
+        cout << endl;
     }
     
     return 0;
