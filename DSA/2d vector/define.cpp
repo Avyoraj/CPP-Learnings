@@ -29,15 +29,17 @@ int main(int argc, char const *argv[])
     cout << endl; 
 
     // rows => mat.size()
-    // cols => mat[i].size() 
+    // cols => mat[i].size()  or mat[0].size() // 0 for same number of columns and i used for uneven sized matrix 
 
     for (int i = 0; i < mat.size(); i++) {
-        for (int j = 0; j < mat[i].size(); j++) {
+        for (int j = 0; j < mat[0].size(); j++) {
             cout << mat[i][j] << " "; // Accessing each element in the 2D vector
         }
         cout << endl; // New line after each row
     }
    
+
+
     return 0;
 }
  
