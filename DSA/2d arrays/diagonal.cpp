@@ -6,13 +6,10 @@ This code calculates the sum of the diagonals of a 2D array (matrix).
 
 */
 
-
-
 /*
  maxRowsum.cpp
 
 */
-
 
 
 #include <iostream>
