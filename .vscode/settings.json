@@ -7,5 +7,6 @@
         "vector": "cpp",
         "stack": "cpp",
         "queue": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
